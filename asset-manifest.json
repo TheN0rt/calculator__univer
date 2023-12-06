@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/calculator_univer/static/css/main.bcb4138c.css",
+    "main.js": "/calculator_univer/static/js/main.0d635fda.js",
+    "static/media/window.mini.svg": "/calculator_univer/static/media/window.mini.0b265af8641a18b944d7886a6bd6731d.svg",
+    "static/media/window.svg": "/calculator_univer/static/media/window.250c6f7c97e29deb61f42c63985e62fc.svg",
+    "static/media/calculator.mini.svg": "/calculator_univer/static/media/calculator.mini.5aab4fa429af9707d9b83fd61ca2ed12.svg",
+    "static/media/calculator.svg": "/calculator_univer/static/media/calculator.f52ef51a65bb98302b09b1da126c044b.svg",
+    "static/media/puzzle.mini.svg": "/calculator_univer/static/media/puzzle.mini.7b7b9a5f7454e18220814dc5bfbfdb6f.svg",
+    "static/media/puzzle.svg": "/calculator_univer/static/media/puzzle.4630924746cff350503cc2df105cf92f.svg",
+    "static/media/map.svg": "/calculator_univer/static/media/map.3345a387f381e9bf061559140395c1be.svg",
+    "static/media/map.mini.svg": "/calculator_univer/static/media/map.mini.65037bb96cf2e527cc6b5bded877c2bb.svg",
+    "static/media/discount.mini.svg": "/calculator_univer/static/media/discount.mini.09aeeffc3a0d6b9a42c7418bc4c3606f.svg",
+    "static/media/discount.svg": "/calculator_univer/static/media/discount.6aaf2786c1ac4999ed044bb9d4c05c90.svg",
+    "static/media/box.mini.svg": "/calculator_univer/static/media/box.mini.be8513c6afbb77d16c7159ab65a6b5bf.svg",
+    "static/media/startup.mini.svg": "/calculator_univer/static/media/startup.mini.0e264cb8cc032dd123d6b9b63c07d996.svg",
+    "static/media/startup.svg": "/calculator_univer/static/media/startup.f23aeb76626bf7bfbe56723043a87dea.svg",
+    "static/media/box.svg": "/calculator_univer/static/media/box.976646a9c9a1f250055c060f77909644.svg",
+    "static/media/landing.svg": "/calculator_univer/static/media/landing.266ca98c497cc5c15632439626053dfc.svg",
+    "static/media/crm.mini.svg": "/calculator_univer/static/media/crm.mini.7bd5c1b1e26f7c094099c4485edfbdde.svg",
+    "static/media/crm.svg": "/calculator_univer/static/media/crm.db146e370df45184a8bb5defea27c396.svg",
+    "static/media/shop.svg": "/calculator_univer/static/media/shop.9087635d4e8f80c0d1950a619135091c.svg",
+    "static/media/market.svg": "/calculator_univer/static/media/market.170c180431aacac0b7d8032cae757caf.svg",
+    "static/media/employeer.svg": "/calculator_univer/static/media/employeer.e17e1b636b61a97e739f575713cc181b.svg",
+    "static/media/employeer.mini.svg": "/calculator_univer/static/media/employeer.mini.fd6d0a505e8fb46dbcd234a0a6db669a.svg",
+    "static/media/phone.svg": "/calculator_univer/static/media/phone.44589f905ecc1c6ab45a8e3482b45760.svg",
+    "static/media/phone.mini.svg": "/calculator_univer/static/media/phone.mini.8d9543378253fd7d6e998d4f46e50277.svg",
+    "static/media/mac.svg": "/calculator_univer/static/media/mac.4d739945976937dc5d85b6a1629e5d88.svg",
+    "static/media/mac.mini.svg": "/calculator_univer/static/media/mac.mini.dadd917ad8a8b7be097c88e5287038c8.svg",
+    "static/media/transport.mini.svg": "/calculator_univer/static/media/transport.mini.0c70fe22176dc7accb59df23c1248c4f.svg",
+    "static/media/transport.svg": "/calculator_univer/static/media/transport.a2553e0e3d2d9f912cc0042227a216cc.svg",
+    "index.html": "/calculator_univer/index.html",
+    "main.bcb4138c.css.map": "/calculator_univer/static/css/main.bcb4138c.css.map",
+    "main.0d635fda.js.map": "/calculator_univer/static/js/main.0d635fda.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bcb4138c.css",
+    "static/js/main.0d635fda.js"
+  ]
+}
