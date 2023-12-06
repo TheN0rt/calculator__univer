@@ -1,0 +1,20 @@
+.homepage{
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   gap: 80px;
+}
+
+.homepage h2{
+   background: none;
+   font-size: 66px;
+   font-family: 'Montserrat', sans-serif;
+   font-weight: 600;
+   width: fit-content;
+}
+
+.homepage a{
+   height: 600px;
+   width: 390px;
+   text-decoration: none;
+}

@@ -1,0 +1,26 @@
+li label{
+   display: flex;
+   /* align-items: center; */
+   gap: 10px;
+   cursor: pointer;
+}
+
+li label input{
+   align-self: flex-start;
+   margin-top: 10px;
+}
+
+li label div{
+   flex-grow: 1;
+   display: flex;
+   justify-content: space-between;
+   font-size: 24px;
+}
+
+li label div span:first-child{
+   width: 323px;
+}
+
+li label div span:last-child{
+   font-weight: 600;
+}
