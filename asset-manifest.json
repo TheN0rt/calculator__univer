@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/calculator__univer/static/css/main.bcb4138c.css",
-    "main.js": "/calculator__univer/static/js/main.9b1bf975.js",
+    "main.js": "/calculator__univer/static/js/main.aef79cf1.js",
     "static/media/window.mini.svg": "/calculator__univer/static/media/window.mini.0b265af8641a18b944d7886a6bd6731d.svg",
     "static/media/window.svg": "/calculator__univer/static/media/window.250c6f7c97e29deb61f42c63985e62fc.svg",
     "static/media/calculator.mini.svg": "/calculator__univer/static/media/calculator.mini.5aab4fa429af9707d9b83fd61ca2ed12.svg",
@@ -31,10 +31,10 @@
     "static/media/transport.svg": "/calculator__univer/static/media/transport.a2553e0e3d2d9f912cc0042227a216cc.svg",
     "index.html": "/calculator__univer/index.html",
     "main.bcb4138c.css.map": "/calculator__univer/static/css/main.bcb4138c.css.map",
-    "main.9b1bf975.js.map": "/calculator__univer/static/js/main.9b1bf975.js.map"
+    "main.aef79cf1.js.map": "/calculator__univer/static/js/main.aef79cf1.js.map"
   },
   "entrypoints": [
     "static/css/main.bcb4138c.css",
-    "static/js/main.9b1bf975.js"
+    "static/js/main.aef79cf1.js"
   ]
 }
